@@ -1,0 +1,28 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Bibek",
+    "collectionId": "0a5321be-a54a-4be1-9b07-115e24d97066",
+    "dateExported": "2025-10-26T11:28:44.404Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "870475b7-8475-4783-add8-dc74b65717b7",
+            "colId": "0a5321be-a54a-4be1-9b07-115e24d97066",
+            "containerId": "",
+            "name": "http://127.0.0.1:5000/api/auth/register",
+            "url": "http://127.0.0.1:5000/api/auth/register",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2025-10-26T11:28:05.449Z",
+            "modified": "2025-10-26T11:28:05.449Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\r\n    \"username\": \"dev_user\",\r\n    \"password\": \"123\",\r\n    \"role\": \"Developer\"\r\n}",
+                "form": []
+            }
+        }
+    ],
+    "ref": "nQzy0FkKBenZhQbqRyS1BtOObgKFO4gpdoviaUtjTmuZVgDHO3N9iTjX6ZYtU1VduVIXn7N5YyYKMUsXSzy1Zw"
+}
