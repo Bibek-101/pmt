@@ -1,11 +1,11 @@
 Project Management Tool
 
-Full Name: Bibek (Add your last name)
+Full Name: Bibek Kumar Patro
+Contact :- 7205293190
 
-Deployment Link (Vercel): [Your Vercel URL here]
+Deployment Link (Vercel): https://pmt-git-main-bibek-kumar-patros-projects.vercel.app?_vercel_share=wwXBSRAoArr6ZpsNWTd0cEOdXg2RBpfh
 
-GitHub Repository: [Your GitHub URL here]
-
+GitHub Repository: https://github.com/Bibek-101/pmt.git
 How to Run This Project Locally
 
 1. Backend (Python/Flask)
